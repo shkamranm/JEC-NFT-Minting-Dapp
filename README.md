@@ -1,4 +1,4 @@
-# Welcome to The Stripes NFT 💎
+# Welcome to Jolly Emoji Collection 💎
 
 ![](https://github.com/shkamranm/JEC-NFT-Minting-Dapp/logo-blob.png)
 
