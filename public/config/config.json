@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xcfc783d69d01c4206221577a764c9c407e1f3f59",
+  "SCAN_LINK": "https://polygonscan.com/token/0xcfc783d69d01c4206221577a764c9c407e1f3f59",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Jolly Emoji Collection",
+  "SYMBOL": "JEC",
+  "MAX_SUPPLY": 4000,
+  "WEI_COST": 8000000000000000000,
+  "DISPLAY_COST": 8,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/jollyemojicollection",
+  "SHOW_BACKGROUND": true
+}
